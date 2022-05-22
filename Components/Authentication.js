@@ -41,7 +41,7 @@ const Authentication = ({ navigation }) => {
                 </View>
                 <TouchableOpacity
                     onPress = {() =>
-                        navigation.navigate('Home')
+                        navigation.navigate('Home', {name: "Naol"})
                     }
                 >
                     <IconMaterialCommunityIcons
