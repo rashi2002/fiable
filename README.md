@@ -55,10 +55,14 @@ To create an incentivized rewards app for biking to encourage use of bikes for s
 
 ## Test Plan: 
 
+1. Testing the app in a real world senario, using test routes to make sure that it enhances the user experience
+2. Testing the app in Trails specifically (see if location tracking is accurate)
+
 ## Future Improvements:
 1. Redux state management. Normal unidirectional state management is a pain. Every state variable has to be sent every time we are using navigate
 2. Functional Polylines to get the direction from any latitude or longitude
 3. Make the Google Cloud API key restricted. It should be in a .env file
 4. Design Improvement 1: Make fiable$ border thiner
 5. Design Improvement 2: Border radius for fiable$, sign out & change password
+6. Pop-up to make sure user is comfortable with turning their location on
 
