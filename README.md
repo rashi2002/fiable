@@ -1,6 +1,6 @@
 # Fiable
 
-## Make money biking
+## Make money biking : https://github.com/rashi2002/fiable
 
 **Contributors:** Naol Denko, Basil Yusuf and Rashi Mathur <br>
 **Hackathon:** Gryphhacks <br>
