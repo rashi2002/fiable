@@ -1,2 +1,2 @@
-# fiable
-moneymaking biking app
+# Fiable
+Make money biking
