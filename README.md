@@ -31,8 +31,9 @@ The problem this app addresses is of air pollution and physical health.
 
 ## User Guide
 
-1. Make sure you have npm installed
-2. Install expo using your command line ```npm install --global expo-cli```
+1. Make sure you have npm installed. Otherwise, refer to this link: <br>https://docs.npmjs.com/downloading-and-installing-node-js-and-npm<br>
+2. Install expo using your command line <br> ```npm install --global expo-cli```<br>
+3. 
 
 ## Continuation of User guide: 
 
