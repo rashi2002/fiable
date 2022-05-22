@@ -48,5 +48,11 @@
 
 ## Test Plan: 
 
-## Future Improvements
+## Future Improvements:
+1. Redux state management. Normal unidirectional state management is a pain. Every state variable has to be sent every time we are using navigate
+2. Functional Polylines to get the direction from any latitude or longitude
+3. Make the Google Cloud API key restricted. It should be in a .env file
+4. Design Improvement 1: Make fiable$ border thiner
+5. Design Improvement 2: Border radius for fiable$, sign out & change password
+5.
 
