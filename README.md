@@ -27,15 +27,16 @@
 
 ## Description of the Problem
 
-## Assumptions and Limitations
+The problem this app addresses is of air pollution and physical health.
 
 ## User Guide
+
+```Hello```
 
 ## Continuation of User guide: 
 
 ## Test Plan: 
 
-## Enhancements over the previous version
 
 ## Future Enhancements
 
