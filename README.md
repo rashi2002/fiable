@@ -33,7 +33,14 @@ The problem this app addresses is of air pollution and physical health.
 
 1. Make sure you have npm installed. Otherwise, refer to this link: <br>https://docs.npmjs.com/downloading-and-installing-node-js-and-npm<br>
 2. Install expo using your command line <br> ```npm install --global expo-cli```<br>
-3. 
+3. Read this documentation for troubleshooting <br>https://docs.expo.dev/get-started/installation/<br>
+4. Clone the repository<br>https://github.com/rashi2002/fiable<br>
+5. Make sure you are inside the "fiable" folder
+6. Run this command: ```npm i```
+7. After the installation is done, install the "Expo Go" app on your phone (App store or Playstore)
+8. Run this command: ```expo start```
+9. Scan the QR code that is generated
+10. Enjoy the app!
 
 ## Continuation of User guide: 
 
