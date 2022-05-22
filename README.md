@@ -27,7 +27,9 @@
 
 ## Description of the Problem
 
-The problem this app addresses is of air pollution and physical health.
+1. Initial Idea (Naol): "I was looking into https://www.ycombinator.com/rfs and when I was on there I noticed one of the requests for startups was transportation & housing, so I thought of facilitating some sort of relationship with users and short-distance personal transportation vehicles. After some brainstorming and chatting with friends, I eventually formulated an idea for an incentivized rewards app for biking."
+2. Meetings and Setup: Page Count, Authentication and Brainstorming.
+3. Convert this to a startup once the hackathon is over
 
 ## User Guide
 
