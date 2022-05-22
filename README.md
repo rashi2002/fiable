@@ -2,6 +2,10 @@
 
 ## Make money biking : https://github.com/rashi2002/fiable
 
+## Description of the Problem
+
+To create an incentivized rewards app for biking to encourage use of bikes for short distance travel which allows the users to record thier rides, paths, discover their surroundings and helps to reduce pollution.
+
 **Contributors:** Naol Denko, Basil Yusuf and Rashi Mathur <br>
 **Hackathon:** Gryphhacks <br>
 **Date:** May 22nd <br>
@@ -29,10 +33,6 @@
 ![image](https://user-images.githubusercontent.com/92009321/169708968-1761533a-c2fe-473c-9417-5643123a8715.png) <br>
 ### 8. Settings
 ![image](https://user-images.githubusercontent.com/92009321/169709068-ceb0c5db-692f-4be7-81ad-5f7159714e9a.png) <br>
-
-## Description of the Problem
-
-To create an incentivized rewards app for biking to encourage use of bikes for short distance travel which allows the users to record thier rides, paths, discover their surroundings and helps to reduce pollution.
 
 ## Our Process
 
