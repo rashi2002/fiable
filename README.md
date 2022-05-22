@@ -7,6 +7,11 @@
 **Date:** May 22nd <br>
 **Version:** 1.0 <br>
 
+## Technology Stack
+1. React-Native, Stack Navigator, React Hooks
+2. Expo CLI, Metro Bundler, Expo Go
+3. Google Cloud Platform, Google Maps API, Google Map Directions API and React-Native-Maps
+
 ## All the pages of the app
 ### 1. Authenticaiton
 ![image](https://user-images.githubusercontent.com/92009321/169708663-b3d81d5c-aa72-4ba7-9187-45f3bee3d669.png) <br>
@@ -54,5 +59,4 @@
 3. Make the Google Cloud API key restricted. It should be in a .env file
 4. Design Improvement 1: Make fiable$ border thiner
 5. Design Improvement 2: Border radius for fiable$, sign out & change password
-5.
 
