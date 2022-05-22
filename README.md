@@ -7,8 +7,11 @@
 **Date:** May 22nd <br>
 **Version:** 1.0 <br>
 
-### Description of the Problem
+### All the pages of the app
+![image](https://user-images.githubusercontent.com/92009321/169708663-b3d81d5c-aa72-4ba7-9187-45f3bee3d669.png)
 
+
+### Description of the Problem
 
 ### Assumptions and Limitations
 
