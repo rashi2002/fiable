@@ -46,6 +46,5 @@ The problem this app addresses is of air pollution and physical health.
 
 ## Test Plan: 
 
-
-## Future Enhancements
+## Future Improvements
 
