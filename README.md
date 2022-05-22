@@ -10,7 +10,7 @@
 ## Technology Stack
 1. React-Native, Stack Navigator, React Hooks
 2. Expo CLI, Metro Bundler, Expo Go
-3. Google Cloud Platform, Google Maps API, Google Map Directions API and React-Native-Maps
+3. Google Cloud Platform, Google Maps API, Google Maps Directions API and React-Native-Maps
 
 ## All the pages of the app
 ### 1. Authenticaiton
