@@ -8,9 +8,9 @@
 **Version:** 1.0 <br>
 
 ### All the pages of the app
-1. **Authentication**<br>
+1. **Authentication**<br><br>
 ![image](https://user-images.githubusercontent.com/92009321/169708663-b3d81d5c-aa72-4ba7-9187-45f3bee3d669.png)
-2. 
+2.  
 
 
 ### Description of the Problem
