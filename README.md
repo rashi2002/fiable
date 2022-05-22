@@ -2,10 +2,10 @@
 
 ## Make money biking
 
-**Contributors:** Naol Denko, Basil Yusuf and Rashi Mathur
-**Hackathon:** Gryphhacks
-**Date:**  
-**Version:** 1.0
+**Contributors:** Naol Denko, Basil Yusuf and Rashi Mathur <br>
+**Hackathon:** Gryphhacks <br>
+**Date:** May 22nd <br>
+**Version:** 1.0 <br>
 
 ### Description of the Problem
 
